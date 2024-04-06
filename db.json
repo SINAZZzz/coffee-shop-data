@@ -38,13 +38,13 @@
     }
   ],
   "categories": [ 
-    { "id": "1", "name": "Cappuccino" },
-    { "id": "2", "name": "Machiato" },
-    { "id": "3", "name": "Latte" },
-    { "id": "4", "name": "Tea" },
-    { "id": "5", "name": "Cappuccino" },
-    { "id": "6", "name": "Machiato" },
-    { "id": "7", "name": "Latte" },
-    { "id": "8", "name": "Tea" }
+    { "id": "0", "name": "Cappuccino" },
+    { "id": "1", "name": "Machiato" },
+    { "id": "2", "name": "Latte" },
+    { "id": "3", "name": "Tea" },
+    { "id": "4", "name": "Cappuccino" },
+    { "id": "5", "name": "Machiato" },
+    { "id": "6", "name": "Latte" },
+    { "id": "7", "name": "Tea" }
   ]
 }
